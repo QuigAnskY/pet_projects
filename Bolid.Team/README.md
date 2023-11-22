@@ -28,7 +28,7 @@ Dashboard was built upon the sales data provided by the customer for a certain p
 ## Additional metrics
 * Time series charts: key metrics;
 * Scorecard: average sales by different time series granularity (hour, day, week, month, year);
-* Bar chart: differences between revenue and the mean revenue in numbers and percentages.
+* Bar chart: differences between revenue and average revenue in numbers and percentages.
 
 Dashboard is available [here](https://datalens.yandex/afdmgzi60ovez)
 
