@@ -1,6 +1,6 @@
 # Amusement arcade sales dashboard
 ## Project description:
-This dashboard is designed for Bolid.Team amusement arcade sales analytics. Dashboard was created using Yandex.DataLens and has different types of metrics and KPIs for Bolid.Team management. 
+This dashboard is designed for Bolid.Team amusement arcade sales analytics. [Dashboard](https://datalens.yandex/afdmgzi60ovez) was created using Yandex.DataLens and has different types of metrics and KPIs for Bolid.Team management. 
 My task was to analyze raw data obtained from Clickhouse / provided by the customer and finally create a dashboard with Yandex.DataLens.
 Dashboard is analysis tools used to present operational information graphically, provide visibility into organizational performance, and enable informed decision-making based on hard tracked metrics.
 
@@ -29,11 +29,6 @@ Dashboard was built upon the sales data provided by the customer for a certain p
 * Time series charts: key metrics;
 * Scorecard: average sales by different time series granularity (hour, day, week, month, year);
 * Bar chart: differences between revenue and average revenue in numbers and percentages.
-
-Dashboard is available [here](https://datalens.yandex/afdmgzi60ovez)
-
-### Contact information:
-Created by: Evgenii Kutlusurin
 
 #### Important notice
 Сurrent dashboard and its source data does not contain any confidential information.
