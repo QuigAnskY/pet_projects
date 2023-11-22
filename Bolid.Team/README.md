@@ -4,7 +4,7 @@ This dashboard is designed for Bolid.Team amusement arcade sales analytics. Dash
 My task was to analyze raw data obtained from Clickhouse / provided by the customer and finally create a dashboard with Yandex.DataLens.
 Dashboard is analysis tools used to present operational information graphically, provide visibility into organizational performance, and enable informed decision-making based on hard tracked metrics.
 
-## Инструменты:
+## Tools used:
 `SQL`, `DataLens`, `ClickHouse`
 
 ## Key features:
@@ -31,8 +31,9 @@ Dashboard was built upon the sales data provided by the customer for a certain p
 * Bar chart: differences between revenue and the mean revenue in numbers and percentages.
 
 Dashboard is available [here](https://datalens.yandex/afdmgzi60ovez)
-### Контактная информация:
+
+### Contact information:
 Created by: Evgenii Kutlusurin
 
-#### Примечание
-Important notice: current dashboard and its source data does not contain any confidential information.
+#### Important notice
+Сurrent dashboard and its source data does not contain any confidential information.
