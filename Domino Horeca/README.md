@@ -1,6 +1,6 @@
 # Domino Home & Horeca sales analysis dashboard
 
-Dashboard is available [here](https://lookerstudio.google.com/reporting/d195e70e-afb2-4d40-8948-c5d25cb64030)
+Dashboard is available [here](https://lookerstudio.google.com/reporting/a68779c1-ac12-48e6-816a-94b4863ee8ed)
 
 ## Goal
 
